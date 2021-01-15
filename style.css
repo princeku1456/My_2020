@@ -1,0 +1,62 @@
+body{
+  background: #e8eae6;
+  text-align: center;
+  font-family: 'Nobile', sans-serif;
+}
+
+h1{
+  font-family: 'Caveat Brush', cursive;
+  font-size: 6rem;
+  color: #008891;
+}
+p{
+  color: #008891;
+  text-align: center;
+  font-family: 'Nobile', sans-serif;
+  width: 80%;
+  font-weight: 100;
+  font-size: 1.5rem;
+  line-height: 1.5;
+  margin-left: auto;
+  margin-right: auto;
+}
+.date{
+  text-align: left;
+  margin-left: 300px;
+  color: #008891;
+  font-family: 'Caveat Brush', cursive;
+  font-size: 2rem;
+  font-weight: 100;
+
+}
+.profile{
+  height: 200px;
+  width: 200px;
+  display: block;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 60px;
+}
+.main_line{
+  height: 5px;
+  width: 35%;
+  position: relative;
+  margin-top: -60px;
+  margin-bottom: 60px;
+  background: #008891;
+  border-radius: 25px;
+}
+.month_line{
+  height: 3px;
+  width: 60%;
+  position: relative;
+  margin-bottom: 30px;
+  background: #008891;
+  border-radius: 25px;
+}
+.shyari{
+  color: #008891;
+  font-size: 2rem;
+  font-weight: 100;
+}
